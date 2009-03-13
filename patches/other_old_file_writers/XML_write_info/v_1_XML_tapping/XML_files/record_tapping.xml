@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "record_tapping">
+	<slot number = "1">
+		<pattr name = "pcu_clock" value = "496190.875" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "pcu_clock" value = "496190.875" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "1" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "3">
+		<pattr name = "pcu_clock" value = "40329.179688" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "1" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "4">
+		<pattr name = "pcu_clock" value = "40329.179688" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "5">
+		<pattr name = "pcu_clock" value = "40329.179688" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "1" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "6">
+		<pattr name = "pcu_clock" value = "44814.554688" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "1" />
+	</slot>
+	<slot number = "7">
+		<pattr name = "pcu_clock" value = "45514.585938" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "1" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "8">
+		<pattr name = "pcu_clock" value = "46113." />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "1" />
+	</slot>
+	<slot number = "9">
+		<pattr name = "pcu_clock" value = "46714.574219" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "1" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "10">
+		<pattr name = "pcu_clock" value = "48514.542969" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "1" />
+	</slot>
+	<slot number = "11">
+		<pattr name = "pcu_clock" value = "50214.535156" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "1" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "12">
+		<pattr name = "pcu_clock" value = "50214.535156" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "1" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "13">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "14">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "1" />
+	</slot>
+	<slot number = "15">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "1" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "16">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "1" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "17">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "18">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "1" />
+	</slot>
+	<slot number = "19">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "1" />
+	</slot>
+	<slot number = "20">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "1" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "21">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "1" />
+	</slot>
+	<slot number = "22">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "1" />
+	</slot>
+	<slot number = "23">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "1" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "24">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "1" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "25">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "26">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "1" />
+	</slot>
+	<slot number = "27">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "28">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "1" />
+	</slot>
+	<slot number = "29">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "30">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "1" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "31">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "1" />
+	</slot>
+	<slot number = "32">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "1" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+	<slot number = "33">
+		<pattr name = "pcu_clock" value = "51516.675781" />
+		<pattr name = "qtr_note[1]" value = "0" />
+		<pattr name = "tap_L" value = "0" />
+		<pattr name = "tap_R" value = "0" />
+	</slot>
+</pattrstorage>
+
