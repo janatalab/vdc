@@ -50,7 +50,7 @@ The most important feature of the Experiment Manager is the text file it produce
 This version contains an abstraction of the more specific VDC Experiment Controller patch, brilliantly named "vdc_exp_control_1_2".
 
 #### Subpatch Descriptions
-# write_events_to_text_with_clock - Handles writing to Experiment Manager's event log
+- write_events_to_text_with_clock - Handles writing to Experiment Manager's event log
 
 ### VDC Experiment Controller
 
